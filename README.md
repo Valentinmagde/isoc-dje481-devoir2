@@ -1,8 +1,6 @@
-# isoc-dje481-devoir2
+## Devoir 2 : Gestion des étudiants
 
 ## Nom : Valentin MAGDE
-
-## Devoir 2 : Gestion des étudiants
 
 ## Instructions pour tester le programme :
 1. Cloner le dépôt depuis GitHub ou télécharger les fichiers.
